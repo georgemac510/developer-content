@@ -643,7 +643,7 @@ and then fetching `accounts`.
 #### 3. `Accounts`
 
 In the above `initialize` mutation, we are calling `accounts.refetch()`. This is
-a to refresh the accounts that we have stored, every time a new account is
+to refresh the accounts that we have stored, every time a new account is
 initialized.
 
 ```typescript
